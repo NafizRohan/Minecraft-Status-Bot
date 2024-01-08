@@ -1,1 +1,1 @@
-"# Minecraft-Status-Bot" 
+# Minecraft-Status-Bot 
